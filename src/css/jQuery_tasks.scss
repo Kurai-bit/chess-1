@@ -1,0 +1,123 @@
+[id*="Ex"] {
+  margin-top: 20px;
+  border-bottom: 1px solid black;
+}
+#Ex1 button {
+  display: block;
+  margin: 20px 0 0 0;
+}
+#Ex1 textarea {
+  width: 200px;
+  height: 60px;
+  margin: 10px;
+  float: left;
+  font-size: 18px;
+}
+#Ex1 p {
+  clear: left;
+  font-weight: bold;
+  font-size: 18px;
+  color: green;
+  margin: 5px 10px 0 10px;
+  padding: 2px;
+}
+#Ex2 button {
+  display: block;
+  margin: 20px 0 0 0;
+}
+#Ex4 {
+  height: 200px;
+}
+#Ex4 p, #Ex4 div {
+  margin: 5px;
+  padding: 5px;
+  color: #c03199;
+}
+#Ex4 .border {
+  border: 2px solid #360e9b;
+}
+#Ex4 .background {
+  background: #cdc8b1;
+}
+#Ex4 .left, #Ex4 .right {
+  width: 40%;
+  float: left;
+}
+#Ex4 .right {
+  margin-left: 2%;
+}
+#Ex5 p {
+  margin: 8px;
+  font-size: 16px;
+}
+#Ex5 .w3r_font_color{
+  color: red;
+}
+#Ex5 .w3r_background {
+  background: yellow;
+}
+
+#Ex6 p {
+  margin: 8px;
+  font-size: 16px;
+}
+#Ex6 .w3r_font_color{
+  color: blue;
+}
+#Ex6 .w3r_background {
+  background: orange;
+}
+
+#Ex7 p {
+  background: white;
+}
+#Ex7 .w3r_bg_orange{
+  background: orange;
+}
+#Ex7 .w3r_bg_red {
+  color: red;
+}
+
+#Ex19 p {
+  background-color: #B0E0E6;
+  width: 70px;
+  border: 1px solid red;
+}
+
+#Ex20 {
+  height: 150px;
+}
+#Ex20 div {
+  position: absolute;
+  background-color: #B0E0E6;
+  left: 40px;
+  width: 80px;
+  height: 80px;
+  margin: 5px;
+}
+
+#Ex21 {
+  height: 100px;
+}
+#Ex21 div {
+  position: relative;
+  background-color: #B0E0E6;
+  width: 45px;
+  height: 45px;
+  float: left;
+  margin: 5px;
+}
+#Ex22 {
+  height: 50px;
+}
+#Ex22 div {
+  background: #B0E0E6;
+  border: 1px solid #e30ae8;
+  width: 20px;
+  height: 30px;
+  margin: 0 5px;
+  float: left;
+}
+#Ex22 div.colored {
+  background: #000000;
+}
